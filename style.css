@@ -1,0 +1,9 @@
+.let{
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 20px;
+}
